@@ -1,0 +1,1 @@
+Projeto desenvolvido utilizando o pacote XAMPP: PHP, HTML, CSS, MySQL
